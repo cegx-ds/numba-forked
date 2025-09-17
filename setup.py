@@ -373,7 +373,7 @@ install_requires = [
 ]
 
 metadata = dict(
-    name='numba',
+    name='numba-forked',
     description="compiling Python code using LLVM",
     version=versioneer.get_version(),
     classifiers=[
